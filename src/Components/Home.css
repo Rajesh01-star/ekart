@@ -1,0 +1,16 @@
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    padding:10px;
+    margin:10px;
+}
+.item{
+margin:auto;
+text-align: left;
+border: 1px ridge grey;
+padding:5px;
+margin-bottom:15px
+}
+.title, .price{
+    padding:4px
+}
